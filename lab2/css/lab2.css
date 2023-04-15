@@ -3,7 +3,6 @@ h1 {
     font-size: 150%;
 
 }
-
 p {
     font-family:Georgia;
     text-indent: 30px;
@@ -12,8 +11,8 @@ p {
     }
 
 #content {
-    background-color: magenta;
-    width: 400px;
+    background-color: cyan;
+    width: 900px;
     min-height: 200px;
     padding: 20px;
     margin: 10px;
@@ -22,5 +21,5 @@ p {
 
     }
 #content:hover {
-    background-color: yellowgreen;
+    background-color:aliceblue;
     }
