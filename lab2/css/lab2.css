@@ -1,0 +1,26 @@
+h1 {
+    color:darksalmon;
+    font-size: 150%;
+
+}
+
+p {
+    font-family:Georgia;
+    text-indent: 30px;
+    margin-left: 10;
+
+    }
+
+#content {
+    background-color: magenta;
+    width: 400px;
+    min-height: 200px;
+    padding: 20px;
+    margin: 10px;
+    border: solid 1px blue;
+
+
+    }
+#content:hover {
+    background-color: yellowgreen;
+    }
