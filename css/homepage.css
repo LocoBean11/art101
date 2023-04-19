@@ -2,5 +2,31 @@
 
 .cat-photo {
   margin: 10px;
-  max-width: 500px;
+  max-width: 300px;
 }
+
+.my-portrait {
+max-width: 400px;
+margin: 10px;
+
+}
+
+.file-structure {
+max-width: 100px;
+margin: 10px;
+
+}
+
+.index-html {
+  max-width: 100px;
+  margin: 10px;
+  
+  }
+
+  .home-page {
+    max-width: 100px;
+    margin: 10px;
+    
+    }
+    
+  
