@@ -7,3 +7,9 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+
+  .screenshot-index {
+    max-width: 500px;
+    margin: 10px;
+    
+    }
