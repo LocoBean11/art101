@@ -8,7 +8,7 @@
     background-color: #DDD8C4;
   }
 
-  gotg-section {
-    max-width: 350px;
+  .gotg-section {
+    max-width: 300px;
     margin: 10px;
   }
