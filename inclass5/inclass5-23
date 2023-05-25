@@ -1,0 +1,65 @@
+
+<div id="output">
+</div>
+
+//Using concepts you learned over the last couple classes, print all the numbers from 1 to 100.
+//If the number is a multiple of 3, print “Fizz” instead of the number.
+//If the number is a multiple of 5, print “Buzz” instead of the number.
+//For numbers which are multiples of both 3 and 5, print “FizzBuzz”
+
+var str;
+  
+for (var i=0; i<100; i++) {
+str = "";
+
+//If a multiple fo 3, print Fizz
+if(i% 3 == 0)	{
+str += "Fizz";
+console.log("Fizz");
+$("#output").append("<div>" + "Fizz");
+}
+else if(i% 5 == 0)	{
+console.log("Buzz");
+$("#output").append("<div>" + "Buzz);
+}
+else if(i	% 15 == 0){
+console.log("FizzBuzz");
+}
+
+else	{
+console.log(i);
+$("#output").append("<div>" + i);
+	}
+
+}
+
+
+//Using concepts you learned over the last couple classes, print all the numbers from 1 to 100.
+//If the number is a multiple of 3, print “Fizz” instead of the number.
+//If the number is a multiple of 5, print “Buzz” instead of the number.
+//For numbers which are multiples of both 3 and 5, print “FizzBuzz”
+
+var str;
+  
+for (var i=0; i<100; i++) {
+str = "";
+
+//If a multiple of 3, print fizz
+if(i% 3 == 0)	{
+str += "Fizz";
+
+}
+else if(i% 5 == 0)	{
+str += "Buzz";
+
+}
+else if(i	% 15 == 0){
+str += "Boom";
+}
+
+else	{
+console.log(i);
+$("#output").append("<div>" + i);
+	}
+
+}
